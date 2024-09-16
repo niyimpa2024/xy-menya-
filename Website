@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Social Media Marketing Tricks</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 15px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+        }
+        .post {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .post h2 {
+            color: #333;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Social Media Marketing Tricks</h1>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Latest Posts</a>
+    <a href="#">Categories</a>
+    <a href="#">Contact Us</a>
+</nav>
+
+<div class="container">
+    <div class="post">
+        <h2>Post Title 1</h2>
+        <p>Here is the content of your first social media marketing trick post. You can write detailed tutorials, tips, and advice here.</p>
+    </div>
+
+    <div class="post">
+        <h2>Post Title 2</h2>
+        <p>Here is the content of your second post. You can update this section daily with new tricks and strategies for social media marketing.</p>
+    </div>
+
+    <!-- You can add more posts as needed -->
+</div>
+
+<footer>
+    <p>&copy; 2024 Social Media Marketing Tricks | All rights reserved</p>
+</footer>
+
+</body>
+</html>
